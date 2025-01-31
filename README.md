@@ -10,9 +10,8 @@
 balajiselvam005/balajiselvam005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-profile-trophy.vercel.app/
-
-?balajiselvam005=ryo-ma" />
+[Github trophy](https://github-profile-trophy.vercel.app/?username=balajiselvam005&theme=onedark)
+<img src="" />
 # Hi there, I'm Balaji Selvam 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=balajiselvam005&color=blue)
