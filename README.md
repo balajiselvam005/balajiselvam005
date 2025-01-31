@@ -10,7 +10,7 @@
 balajiselvam005/balajiselvam005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Github trophy](https://github-profile-trophy.vercel.app/?username=balajiselvam005&theme=onedark)
+![Github trophy](https://github-profile-trophy.vercel.app/?username=balajiselvam005&theme=onedark)
 <img src="" />
 # Hi there, I'm Balaji Selvam 👋
 
