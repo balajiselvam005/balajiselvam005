@@ -1,54 +1,21 @@
-- 👋 Hi, I’m @balajiselvam005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Balaji</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-<!---
-balajiselvam005/balajiselvam005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Github trophy](https://github-profile-trophy.vercel.app/?username=balajiselvam005&theme=onedark)
-<img src="" />
-# Hi there, I'm Balaji Selvam 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajiselvam005&label=Profile%20views&color=0e75b6&style=flat" alt="balajiselvam005" /> </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=balajiselvam005&color=blue)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajiselvam005" alt="balajiselvam005" /></a> </p>
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building efficient and scalable applications.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🌱 I’m currently learning advanced concepts in cloud computing and AI.
-- 👯 I’m looking to collaborate on open-source projects related to web development and machine learning.
-- 💬 Ask me about Python, JavaScript, and cloud technologies.
-- 📫 How to reach me: [balajiselvam005@example.com](mailto:balajiselvam005@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-## 🛠️ Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balajiselvam005&show_icons=true&locale=en&layout=compact" alt="balajiselvam005" /></p>
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **Tools:** Git, Docker, Kubernetes, VS Code
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajiselvam005&show_icons=true&locale=en" alt="balajiselvam005" /></p>
 
-## 📈 GitHub Stats
-
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajiselvam005&show_icons=true&theme=radical)
-
-## 🌟 Top Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balajiselvam005&repo=example-repo&theme=radical)](https://github.com/balajiselvam005/example-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=balajiselvam005&repo=another-repo&theme=radical)](https://github.com/balajiselvam005/another-repo)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/balajiselvam/)
-- [Twitter](https://twitter.com/balajiselvam005)
-- [Personal Website](https://balajiselvam.com)
-
----
-
-⭐️ From [balajiselvam005](https://github.com/balajiselvam005)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajiselvam005&" alt="balajiselvam005" /></p>
